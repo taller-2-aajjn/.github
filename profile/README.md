@@ -21,7 +21,7 @@ https://taller-de-programacion-2.github.io/works/statement/2022/1/enunciado/
 https://docs.google.com/document/d/1JSt1Bey1gd4owlBRjPMO0AHgdXHp0fQtvkrmSFaHTXA/edit
 
 ## Arquitectura del proyecto
-![Arquitectura](arquitectura.png)
+![Arquitectura](/profile/arquitectura.png)
 
 ### Servicios de backend
 - Users: Servicio para resolver las operaciones CRUD y la autenticación de los usuarios y de los administradores.
