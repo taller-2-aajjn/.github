@@ -24,14 +24,14 @@ https://docs.google.com/document/d/1JSt1Bey1gd4owlBRjPMO0AHgdXHp0fQtvkrmSFaHTXA/
 ![Arquitectura](/profile/arquitectura.png)
 
 ### Servicios de backend
-- Users: Servicio para resolver las operaciones CRUD y la autenticación de los usuarios y de los administradores.
-- Songs: Servicio para resolver las operaciones CRUD sobre las canciones, álbumes y playlists. Para buscar, comentar, valorar y bloquear el contenido.
-- Api Gateway: Servicio que actúa como interfaz entre el frontend y el backend. Redirige las requests al servicio correspondiente y valida los tokens de autorización.
-- Payments: Servicio para resolver los pagos de suscripciones en un Smart Contract
-- Api-Keys: Servicio que permite a los administradores dar de alta, visualizar y bloquear servicios. Cada servicio tiene asociada una API key que le permite autenticarse.
+- **Users:** Servicio para resolver las operaciones CRUD y la autenticación de los usuarios y de los administradores.
+- **Songs:** Servicio para resolver las operaciones CRUD sobre las canciones, álbumes y playlists. Para buscar, comentar, valorar y bloquear el contenido.
+- **Api Gateway:** Servicio que actúa como interfaz entre el frontend y el backend. Redirige las requests al servicio correspondiente y valida los tokens de autorización.
+- **Payments:** Servicio para resolver los pagos de suscripciones en un Smart Contract
+- **Api-Keys:** Servicio que permite a los administradores dar de alta, visualizar y bloquear servicios. Cada servicio tiene asociada una API key que le permite autenticarse.
 
 ### Servicios de frontend
-- App Mobile
-- Backoffice
+- **App Mobile**
+- **Backoffice**
 
 
